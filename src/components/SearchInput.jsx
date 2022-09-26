@@ -15,8 +15,7 @@ const SearchInput = ({ setQuery, setUnits }) => {
 
     const handleSubmit = e => {
         e.preventDefault();
-        setQuery({ q: inputValue 
-            });
+        setQuery({ q: inputValue });
         setInputValue("");
     }
 

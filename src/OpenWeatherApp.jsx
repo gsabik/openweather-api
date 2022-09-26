@@ -3,8 +3,8 @@ import {
     Box,
     VStack
  } from "@chakra-ui/react";
- import SearchInput from "./components/SearchInput";
- import CitiesButtons from "./components/CitiesButtons";
+import SearchInput from "./components/SearchInput";
+import CitiesButtons from "./components/CitiesButtons";
 import TimeAndLocation from "./components/TimeAndLocation";
 import TemperatureAndDetails from "./components/TemperatureAndDetails";
 import Forecast from "./components/Forecast";
